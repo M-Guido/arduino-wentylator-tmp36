@@ -25,4 +25,4 @@ The system measures temperature in real-time. If the temperature exceeds **27°C
 4. Monitor the temperature on the LCD or through the Serial Monitor.
 
 
-<img width="972" height="2017" alt="IMG_4926" src="https://github.com/user-attachments/assets/f7d8c014-2a76-4809-b6d7-004aa57563cf" />
+<img width="486" height="1008" alt="IMG_4926" src="https://github.com/user-attachments/assets/f7d8c014-2a76-4809-b6d7-004aa57563cf" />
