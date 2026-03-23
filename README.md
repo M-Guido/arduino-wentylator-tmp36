@@ -1,5 +1,6 @@
 # Smart Arduino Fan System 🌡️🌬️
 
+
 An automated cooling system project based on the Arduino Uno.
 
 ### 🛠️ Components Used:
@@ -22,3 +23,6 @@ The system measures temperature in real-time. If the temperature exceeds **27°C
 2. Power the L298N driver and Arduino via USB or external power supply.
 3. Upload the `.ino` sketch using Arduino IDE.
 4. Monitor the temperature on the LCD or through the Serial Monitor.
+
+
+<img width="972" height="2017" alt="IMG_4926" src="https://github.com/user-attachments/assets/f7d8c014-2a76-4809-b6d7-004aa57563cf" />
